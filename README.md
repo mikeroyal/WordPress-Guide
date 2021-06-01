@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/120384222-b9c0a000-c2da-11eb-8035-23956527f57e.png">
   <br />
   WordPress Guide
 </h1>
@@ -7,12 +7,6 @@
 #### A guide covering the WordPress including the applications, plugins, and tools that will make you a better and more efficient developer with WordPress.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
- 
- <p align="center">
- <img src="">
-  <br />
-</p>
-
 
 # Table of Contents
 
@@ -24,6 +18,10 @@
 
 4. [HMTL/CSS Development](https://github.com/mikeroyal/WordPress-Guide#html-css-development)
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/120384231-bc22fa00-c2da-11eb-822f-27efc6121dfc.png">
+  <br />
+</p>
 
 # WordPress learning Resources
 [Back to the Top](https://github.com/mikeroyal/WordPress-Guide#table-of-contents)
