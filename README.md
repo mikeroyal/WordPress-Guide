@@ -31,7 +31,7 @@
   <br />
 </p>
 
-# WordPress learning Resources
+# WordPress Learning Resources
 [Back to the Top](https://github.com/mikeroyal/WordPress-Guide#table-of-contents)
 
 [WordPress](https://wordpress.com/) is open-source content management system that lets you create a free website or build a blog with ease on WordPress.com. WordPress also offers dozens of free, customizable, mobile-ready designs and themes. Along with free hosting and support.
